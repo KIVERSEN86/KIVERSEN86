@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a frontend dev student at Noroff. I am passionate about challenging myself and learning new technologies.
+
+- 🔭 I’m currently working on creating a portfolio for my projects
+- 🌱 I’m currently learning javascript 
+- ⚡ Fun fact: I am an avid follower of the stock markets
+
+- 📫 How to reach me: https://twitter.com/Iversen_DR K_iversen86@outlook.com
 <!--
 **KIVERSEN86/KIVERSEN86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
