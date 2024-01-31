@@ -3,7 +3,7 @@
 I am a frontend dev student at Noroff. I am passionate about challenging myself and learning new technologies.
 
 - 🔭 I’m currently working on creating a portfolio for my projects
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning react 
 - ⚡ Fun fact: I am an avid follower of stock and crypto markets
 
 - 📫 How to reach me: https://twitter.com/Iversen_DR K_iversen86@outlook.com
