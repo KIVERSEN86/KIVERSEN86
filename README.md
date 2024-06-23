@@ -2,11 +2,13 @@
 
 I am a frontend dev student at Noroff. I am passionate about challenging myself and learning new technologies.
 
-- 🔭 I’m currently working on creating a portfolio for my projects
+- 🔭 I’m currently working on my last project exam before I graduate
 - 🌱 I’m currently learning react 
 - ⚡ Fun fact: I am an avid follower of stock and crypto markets
 
 - 📫 How to reach me: https://twitter.com/Iversen_DR K_iversen86@outlook.com
+- [My Twitter page](https://twitter.com/Iversen_DR)
+- [My LinkedIn page](www.linkedin.com/in/kristoffer-iversen-a593811b5)
 <!--
 **KIVERSEN86/KIVERSEN86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
