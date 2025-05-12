@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a frontend dev student at Noroff. I am passionate about challenging myself and learning new technologies.
+I am a frontend dev developer that finished my degree at Noroff in 2025. I am passionate about challenging myself and learning new technologies.
 
-- 🔭 I’m currently working on my last project exam before I graduate
-- 🌱 I’m currently learning react 
-- ⚡ Fun fact: I am an avid follower of stock and crypto markets
+- 🔭 I’m currently working on a new portfolio page
+- 🌱  
+- ⚡ Fun fact: I am an avid follower and trader of stock and crypto markets
 
 - 📫 How to reach me:
 - [My Twitter page](https://twitter.com/Iversen_DR)
